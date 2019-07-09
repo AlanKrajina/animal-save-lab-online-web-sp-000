@@ -10,7 +10,7 @@ html {
 
 /* Write your solution here */
 
-@media (max-width: 1108px) {
+@media (min-width: 1108px) {
 #bear {
     left:800px;
 }
