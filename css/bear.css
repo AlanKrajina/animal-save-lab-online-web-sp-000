@@ -10,5 +10,8 @@ html {
 
 /* Write your solution here */
 
-
+@media (max-width: 1108px) {
+.wrapper {
+    width: 90%;
+}
 1196px 
